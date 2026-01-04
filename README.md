@@ -16,7 +16,7 @@ The dataset consist of five folders(AP01,AP02,...,AP05) with each folder consist
 **Data Preprocessing & Windowing**
 - Signals are:
   - Time-aligned using timestamps
-	- Split into 30-second windows
+  - Split into 30-second windows
   - 50% overlap between consecutive windows
  
 **Dataset Creation**
